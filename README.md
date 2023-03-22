@@ -9,3 +9,7 @@ Reading and class notes.
 [Day 05 reading](/day-05-reading.md)
 
 [day 06 reading](/day-06-reading.md)
+
+[day 07 reading](/day-07-reading.md)
+
+[day 08 readiing](/day-08-reading.md)
