@@ -1,0 +1,7 @@
+## Learn CSS - Flexbox
+
+1. Flexbox layout is designed for creating one-dimensional content, which refers to content that is laid out in a single direction, either horizontally or vertically. Using flexbox, the main axis of the layout is defined by the `flex-direction` property, which determines whether the content should be laid out horizontally or vertically.
+2. THe main axis is the primary axis along which the items are laid out, either horizontally or vertically. The cross axis is perpendicular to the main axis and runs in the opposite direction. If the main axis is horizontal, the cross axis will be vertical. The `align-items` property is used to align items along the cross axis.
+3. A primary concern with flexbox is that it can make it difficult for screen readers to interpret the order of content. For example, when using the `order` property to change the visual order of content, the screen reader will still read the content in the order it appears in the source code, which can be confusing and disorienting for users.
+4. An advantage of using flexbox over float is flexbox is a more modern and flexible approach to creating layouts using CSS. Flexbox is designed to create responsive layouts that adapt to different screen sizes and devices. Flexbox provides a simipler and more intuitive way to align items within a container. Flexbox provides more control over the layout of items.
+5. The topic of flexbox connects to my long term goals as I want to learn to be able to create any website design that a client or employer would like to see.
