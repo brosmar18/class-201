@@ -25,3 +25,5 @@ Reading and class notes.
 [day 13 reading](/day-13-reading.md)
 
 [day 14 reading](/day-14-reading.md)
+
+[day 14b reading](/day-14b-reading.md)
