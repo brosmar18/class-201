@@ -1,0 +1,4 @@
+## Psychological Safety
+1. Three things individuals can do to fostr tam psychological safety are frame the work as a learning problem, not an execution problem. Acknoledge your own fallibility and modl curiosity and ask lots of quesetions.
+2. The psychological safety at my previous professional setting was a huge focus point. Working in emergency medicine, the intensity of the atmosphere can cause psychological safety concerns. As a team, we were able to overcome these obstacles.
+3. Teams that operate with a high degree of psychological safety tend to have a significant positive impact on their company and team members. Psychological safety refers to the extent to which individuals feel safe to take interpersonal risks and express their ideas and opinions without fear of negative consequences.
